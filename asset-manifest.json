@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MessageApp/static/css/main.c8191027.chunk.css",
+    "main.css": "/MessageApp/static/css/main.ec688ce4.chunk.css",
     "main.js": "/MessageApp/static/js/main.96a7a3bf.chunk.js",
     "main.js.map": "/MessageApp/static/js/main.96a7a3bf.chunk.js.map",
     "runtime-main.js": "/MessageApp/static/js/runtime-main.9d1c4fa9.js",
@@ -8,15 +8,15 @@
     "static/js/2.df9ff396.chunk.js": "/MessageApp/static/js/2.df9ff396.chunk.js",
     "static/js/2.df9ff396.chunk.js.map": "/MessageApp/static/js/2.df9ff396.chunk.js.map",
     "index.html": "/MessageApp/index.html",
-    "precache-manifest.56d403a1a7b1a4f86922fb4946e0dd55.js": "/MessageApp/precache-manifest.56d403a1a7b1a4f86922fb4946e0dd55.js",
+    "precache-manifest.9b91c386b0e4abdd20b1705e5debd9a5.js": "/MessageApp/precache-manifest.9b91c386b0e4abdd20b1705e5debd9a5.js",
     "service-worker.js": "/MessageApp/service-worker.js",
-    "static/css/main.c8191027.chunk.css.map": "/MessageApp/static/css/main.c8191027.chunk.css.map",
+    "static/css/main.ec688ce4.chunk.css.map": "/MessageApp/static/css/main.ec688ce4.chunk.css.map",
     "static/js/2.df9ff396.chunk.js.LICENSE.txt": "/MessageApp/static/js/2.df9ff396.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9d1c4fa9.js",
     "static/js/2.df9ff396.chunk.js",
-    "static/css/main.c8191027.chunk.css",
+    "static/css/main.ec688ce4.chunk.css",
     "static/js/main.96a7a3bf.chunk.js"
   ]
 }
