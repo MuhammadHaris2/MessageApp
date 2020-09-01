@@ -1,0 +1,46 @@
+*{padding: 0; margin: 0; box-sizing: border-box;}
+.Message_card{
+  padding: 10px;
+  margin:10px;
+  width: fit-content;
+}
+
+.Message_user{
+  margin-left: auto;
+  color: white;
+
+  
+}
+
+.Message_guest{
+  background-color: #fff !important;
+}
+
+.Message_users{
+ 
+  background-color: blue !important;
+  
+  
+}
+h1{
+  text-align: center;
+}
+.form_input{
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  text-align: center; 
+}
+.Card{
+    margin:auto;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0, 1);
+    background-color:#fff;
+    width: 50%;
+    border-radius:12px;
+    box-shadow: 0px 13px 10px 7px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+   
+
+}
