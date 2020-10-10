@@ -14,7 +14,7 @@ const Message = ({username,message})=>{
           
           <Typography variant="body2" component="p">
            
-           {!Check && `${message.username || `unknown :`}`} {message.mesage}
+           {!Check && `${message.username || `unknown `}:`} {message.mesage}
           
           </Typography>
          
